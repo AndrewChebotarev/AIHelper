@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYzSRbUUUj8=",
+  "success": true,
+  "projectFilePath": "D:\\ArtificialIntelligence\\AIHelper\\AIHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia\\11.1.0\\avalonia.11.1.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia.buildservices\\0.0.29\\avalonia.buildservices.0.0.29.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia.controls.colorpicker\\11.1.0\\avalonia.controls.colorpicker.11.1.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia.controls.datagrid\\11.1.0\\avalonia.controls.datagrid.11.1.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia.diagnostics\\11.1.0\\avalonia.diagnostics.11.1.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia.fonts.inter\\11.1.0\\avalonia.fonts.inter.11.1.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia.reactiveui\\11.1.0\\avalonia.reactiveui.11.1.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia.remote.protocol\\11.1.0\\avalonia.remote.protocol.11.1.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia.themes.fluent\\11.1.0\\avalonia.themes.fluent.11.1.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\avalonia.themes.simple\\11.1.0\\avalonia.themes.simple.11.1.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\dynamicdata\\7.9.5\\dynamicdata.7.9.5.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.8.0\\microsoft.extensions.ai.abstractions.9.8.0.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\ollamasharp\\5.3.6\\ollamasharp.5.3.6.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\reactiveui\\18.3.1\\reactiveui.18.3.1.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\splat\\14.4.1\\splat.14.4.1.nupkg.sha512",
+    "C:\\Users\\wre56\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

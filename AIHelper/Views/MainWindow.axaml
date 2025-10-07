@@ -1,0 +1,46 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:AIHelper.ViewModels;assembly=AIHelper" x:Class="AIHelper.Views.MainWindow"
+        Title="AI Code Generator"
+        Width="900" Height="700" WindowStartupLocation="CenterScreen" Background="#101424">
+
+	<Design.DataContext>
+		<vm:MainWindowViewModel />
+	</Design.DataContext>
+
+	<DockPanel Margin="15">
+		<StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,15" HorizontalAlignment="Center">
+			
+			<TextBlock Text="Чат от Chebstr (модель phi3:mini)" FontSize="20" FontWeight="Bold" VerticalAlignment="Center"/>
+			
+		</StackPanel>
+
+		<StackPanel DockPanel.Dock="Top">
+			
+			<TextBox BorderBrush="#101424" Text="{Binding GeneratedText}" IsReadOnly="True" AcceptsReturn="True" TextWrapping="Wrap" FontFamily="Consolas, Courier New" FontSize="11" Height="400" ScrollViewer.VerticalScrollBarVisibility="Auto" Watermark="Жду запроса..."/>
+			
+		</StackPanel>
+
+		<StackPanel DockPanel.Dock="Top" Margin="0,40,0,15">
+
+			<TextBlock Text="Введите запрос:" FontSize="14" Margin="0,0,0,5"/>
+
+			<TextBox BorderBrush="#101424"  Text="{Binding Prompt}" Watermark="Например: Напиши на C# класс для работы с БД..." AcceptsReturn="True" Height="80" FontSize="12"/>
+
+		</StackPanel>
+
+		<StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center">
+
+			<Button Content="🚀 Сгенерировать код" Command="{Binding GenerateCode}" HorizontalAlignment="Center" Padding="20,10" FontSize="14" Margin="0,0,0,15" Width="200">
+				<TextBlock TextAlignment="Center">🚀 Сгенерировать код</TextBlock>
+			</Button>
+
+			<Button Command="{Binding ClearChat}" HorizontalAlignment="Center" Padding="20,10" FontSize="14" Margin="20,0,0,15" Width="200">
+				<TextBlock TextAlignment="Center">🧹 Очистить чат</TextBlock>
+			</Button>
+			
+		</StackPanel>
+	</DockPanel>
+</Window>

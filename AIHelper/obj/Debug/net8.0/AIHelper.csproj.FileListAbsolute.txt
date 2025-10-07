@@ -1,0 +1,14 @@
+D:\ArtificialIntelligence\AIHelper\bin\Debug\net8.0\AIHelper.deps.json
+D:\ArtificialIntelligence\AIHelper\bin\Debug\net8.0\AIHelper.dll
+D:\ArtificialIntelligence\AIHelper\bin\Debug\net8.0\AIHelper.pdb
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\AIHelper.csproj.AssemblyReference.cache
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\Avalonia\resources
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\AIHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\AIHelper.AssemblyInfoInputs.cache
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\AIHelper.AssemblyInfo.cs
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\AIHelper.csproj.CoreCompileInputs.cache
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\Avalonia\AIHelper.dll
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\Avalonia\AIHelper.pdb
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\refint\Avalonia\AIHelper.dll
+D:\ArtificialIntelligence\AIHelper\obj\Debug\net8.0\ref\AIHelper.dll
