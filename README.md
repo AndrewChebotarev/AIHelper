@@ -2,7 +2,7 @@
 
 ![Avalonia](https://img.shields.io/badge/Framework-Avalonia-FF3D00?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/Platform-.NET_8-512BD4?style=for-the-badge&logo=dotnet)
-![Status](https://img.shields.io/badge/Status-Active_Development-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Prototype-blue?style=for-the-badge)
 
 ## 🎯 Project Description
 
